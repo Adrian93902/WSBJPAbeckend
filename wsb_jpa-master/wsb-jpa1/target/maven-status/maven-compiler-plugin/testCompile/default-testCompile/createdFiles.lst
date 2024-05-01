@@ -1,0 +1,3 @@
+com\capgemini\wsb\persistance\dao\PatientDaoTest.class
+com\capgemini\wsb\service\impl\PatientServiceTest.class
+com\capgemini\wsb\persistance\dao\AddressDaoTest.class
